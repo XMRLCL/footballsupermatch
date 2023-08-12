@@ -275,7 +275,7 @@ MonoBehaviour:
   - {fileID: 784098673773082156}
   - {fileID: -6021614646998056580}
   - {fileID: 3117318617289163049}
-  Formation: 2
+  Formation: 6
   IsValid: 1
 --- !u!114 &784098673773082156
 MonoBehaviour:

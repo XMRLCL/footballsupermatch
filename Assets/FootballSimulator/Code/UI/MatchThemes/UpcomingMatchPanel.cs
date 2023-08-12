@@ -65,7 +65,7 @@ namespace FStudio.UI.MatchThemes {
         }
 
         public async void StartMatch () {
-            Disappear();
+            // Disappear();
 
             // update the details.
             var details = eventObject.details;

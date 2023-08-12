@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_15;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_15;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;USER_LOGIN;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -42,8 +42,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\AttackingMidfielder.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\FriendPanel.cs" />
      <Compile Include="Assets\Table\CellView.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Animation\Interfaces\IColorable.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\TabButton.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\AbstractPlayerEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\Behaviours\OverallCheck.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\FieldPositions\FieldPositionUtility.cs" />
@@ -60,6 +62,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\AbstractTacticalPositioning.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Data\HairStyles.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\EngineOptions\EngineOptions_BallHitAnimations.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\DemoAdmin.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\KitRenderer\KitSolver.cs" />
      <Compile Include="Assets\Table\Header\Row\HeaderRowCell.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\GameTimeEvent.cs" />
@@ -92,6 +95,7 @@
      <Compile Include="Assets\FootballSimulator\Code\Database\TeamEntry.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Graphics\StadiumType.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Midfield\DMF_R.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\UserLine.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Utilities\SerializableSceneCollection.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\Behaviours\ConsiderPossessioning.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\PlayerTouchTheBall.cs" />
@@ -103,6 +107,8 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Camera\CameraTypes\StadiumCamera.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Input\InputListener.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Panels\Panel.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\MainPanel.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\UI\AvatarIcon.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\SendBallToSafe.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Camera\MatchCamera.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\Passing.cs" />
@@ -114,6 +120,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Referee\LinemanReferee.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Events\EventManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\ChipShootingBehaviour.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Api\ApiTool.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Utilities\DontDestroy.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\MatchThemes\LiveScoreboardPanels\LiveScoreboardPanel.cs" />
@@ -122,6 +129,7 @@
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Panels\FinalWhistlePanel.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\Shooting.cs" />
+     <Compile Include="Assets\Scripts\GameData\GameInformation.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Data\SockAccessoryColor.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\GoalEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Events\MatchKitsEvent.cs" />
@@ -137,12 +145,14 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\BallHitNetEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Panels\ErrorPanel.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\Scripts\GameData\PlayerManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Database\PlayerEntry.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Referee\AbstractReferee.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\InputBehaviours\InputShortPassBehaviour.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Data\FacialHairStyles.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\CriticalSendBallToSafe.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Api\ApiMsg.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Animation\Interfaces\IDynamicFloat.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Enums\AILevel.cs" />
@@ -207,6 +217,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\OpponentGKDegageBehaviour.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Wings\RMF.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\MatchScenes\Implementations\GoToDressingRoomScene.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Data\AvatarData.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Utilities\InteractiveUIElement.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Midfield\CMF.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\RefereeLastWhistleEvent.cs" />
@@ -225,6 +236,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Tactics\TacticPreset.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Loaders\ResourceLoader.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Graphics\Cameras\AbstractCamera.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\UserPanel.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\FieldPositions\DefenderCornerPositioning.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Graphics\TimeOfDay\TimeOfDaySystem.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Utilities\ScoreboardScorerMember.cs" />
@@ -237,6 +249,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\ThrowInEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\AttackingWings\LW.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\EngineOptions\EngineOptions_BallDropPredictionForCrosses.cs" />
+     <Compile Include="Assets\Scripts\teamManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Input\TeamInputListener.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\RefereeShortWhistleEvent.cs" />
@@ -247,7 +260,9 @@
      <Compile Include="Assets\FootballSimulator\Code\UI\Panels\LoadingPanel.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Api\ApiData.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\IManager.cs" />
+     <Compile Include="Assets\Scripts\TagManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Tags.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\AIManagerHandler.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\BallLosing.cs" />
@@ -256,6 +271,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\FieldPositions\BasePositionsData.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\ThrowInBehaviour.cs" />
+     <Compile Include="Assets\Scripts\lineupManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Utilities\AnimatorEnumHasher.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\BallOutByNetEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\MatchPlayer.cs" />
@@ -272,6 +288,8 @@
      <Compile Include="Assets\FootballSimulator\Code\UI\Graphics\TeamLogoMaterial.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Navigation\NavigationScrollSnapper.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\LoginPanel.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\TabNavigator.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Tactics\TeamTactics.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Utilities\SerializableAssetCollection.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Events\LoadingEvent.cs" />
@@ -289,6 +307,7 @@
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Strikers\ST_L.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\GK\GKBallHoldStay.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\FriendLine.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\PlayerController\CodeBasedControllerGizmos.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\UserManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\UI\MatchStatistics.cs" />
@@ -325,6 +344,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\InputBehaviours\InputThoughtPassBehaviour.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Animators\UIAlphaAnimation.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Data\HashedEntry.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Api\ApiAutoConnect.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Wings\LMF.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Stoppers\CB_R.cs" />
@@ -352,6 +372,7 @@
      <Compile Include="Assets\FootballSimulator\Code\Data\Formations.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\UI\MatchStatisticsOption.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Graphics\HeadLook.cs" />
+     <Compile Include="Assets\Scripts\takeexerciseManager.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Loaders\StaticPool.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\MatchThemes\TeamPresentation\TeamPresentationSquadPlayer.cs" />
      <Compile Include="Assets\FootballSimulator\Code\GameInput.cs" />
@@ -368,6 +389,7 @@
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Graphics\BootColors.cs" />
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
      <Compile Include="Assets\Table\Header\Column\HeaderColumnCell.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Api\ApiClient.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\TeamChangedTactic.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\CornerEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Audio\UINavigationAudio.cs" />
@@ -443,6 +465,7 @@
      <Compile Include="Assets\FootballSimulator\Code\UI\Events\ShowScoreboardEvent.cs" />
      <Compile Include="Assets\Table\CellDataCollection.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Behaviours\PassingBehaviour.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Tools\WebTool.cs" />
      <Compile Include="Assets\FootballSimulator\Code\UI\Events\ErrorEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Tactics\TacticPresetTypes.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\PlayerDisbalancedEvent.cs" />
@@ -469,8 +492,10 @@
      <Compile Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\UI\MatchStatisticsEvent.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Events\MatchPauseEvent.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\UI\UIPanel.cs" />
      <Compile Include="Assets\FootballSimulator\Code\Graphics\RenderTextureCreators\AbstractRenderTextureCreator.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Backs\RB.cs" />
+     <Compile Include="Assets\UserLogin\Scripts\Demo\Demo.cs" />
      <Compile Include="Assets\FootballSimulator\Code\MatchEngine\AIManager\Behaviours\ScoreCheck.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\FootballSimulator\Arts\TrainingField\Model\Foliage\Tree" />
@@ -498,12 +523,17 @@
      <Folder Include="Assets\FootballSimulator\Code\UI\MatchThemes\LiveScoreboardPanels" />
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Resources\Sprite Assets" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds" />
+     <Folder Include="Assets\UserLogin\Sprites" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Tactics" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\RefereeLastWhistle" />
+     <Folder Include="Assets\UserLogin\Fonts" />
+     <Folder Include="Assets\UserLogin\Scripts\Data" />
      <Folder Include="Assets\FootballSimulator\Arts\LoadingScene" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\BallHitTheGoalNet" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\Midfield" />
+     <None Include="Assets\UserLogin\NodeJS\InsomniaRequests.json" />
+     <Folder Include="Assets\UserLogin\Scripts\UI" />
      <Folder Include="Assets\FootballSimulator\Code\UI\KitRenderer" />
      <Folder Include="Assets\Table\Header\Row" />
      <Folder Include="Assets\FootballSimulator\Arts\GoalNet\Materials" />
@@ -529,20 +559,24 @@
      <Folder Include="Assets\FootballSimulator\Arts\UI\TeamLogos" />
      <Folder Include="Assets\FootballSimulator\Arts\Balls\Prefabs" />
      <Folder Include="Assets\FootballSimulator\Arts\UI" />
+     <Folder Include="Assets\UserLogin\Scripts" />
      <Folder Include="Assets\FootballSimulator\Code\Input" />
      <Folder Include="Assets\FootballSimulator\Arts\FootballPlayer\PlayerModel\Textures\KitSchemas" />
      <Folder Include="Assets\FootballSimulator\Arts\EventRenderers\Textures" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\BallOutByTheNet" />
      <Folder Include="Assets\FootballSimulator\Arts\FootballPlayer\Animations\Locomotion\Walk" />
+     <Folder Include="Assets\AI Toolbox" />
      <Folder Include="Assets\Table\Header\Prefabs\Column" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\Navigation" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <Folder Include="Assets\Table\Prefabs" />
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Resources" />
+     <Folder Include="Assets\UserLogin\NodeJS" />
      <Folder Include="Assets\FootballSimulator\Resources\Database" />
      <Folder Include="Assets\FootballSimulator\Arts\Balls" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Utilities" />
      <Folder Include="Assets\FootballSimulator\Arts\FootballPlayer\PlayerModel\HairAndBeards" />
+     <Folder Include="Assets\Materials" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Statistics\UI" />
      <Folder Include="Assets\FootballSimulator\PlayableFormations\Balanced" />
      <Folder Include="Assets\FootballSimulator\Arts\RenderCreators" />
@@ -581,6 +615,7 @@
      <Folder Include="Assets\FootballSimulator\Scenes" />
      <Folder Include="Assets\FootballSimulator\Code\UI\Navigation" />
      <Folder Include="Assets\FootballSimulator\Code\Graphics" />
+     <Folder Include="Assets\UserLogin\Scripts\Api" />
      <Folder Include="Assets\FootballSimulator\Arts\TrainingField\Materials" />
      <Folder Include="Assets\FootballSimulator\URP" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\MatchScenes\Implementations" />
@@ -599,6 +634,7 @@
      <None Include="Assets\FootballSimulator\Arts\Shaders\UIShaders\SkinShaderUIShader_Generated.shader" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\BallHitTheWoodWork" />
+     <Folder Include="Assets\UserLogin\Scripts\Tools" />
      <Folder Include="Assets\FootballSimulator\Code\Animation\Interfaces" />
      <Folder Include="Assets\FootballSimulator\Arts\Prefabs" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
@@ -619,7 +655,9 @@
      <Folder Include="Assets\FootballSimulator\Code\Graphics\Cameras" />
      <Folder Include="Assets\FootballSimulator\Arts\UI\Buttons" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Players\PlayerController" />
+     <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\FootballSimulator\Arts\FootballPlayer\PlayerModel" />
+     <Folder Include="Assets\UserLogin\Scenes" />
      <Folder Include="Assets\FootballSimulator\Code\Graphics\RenderTextureCreators" />
      <Folder Include="Assets\FootballSimulator\Code\UI\Utilities" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\PlayerCross" />
@@ -642,6 +680,7 @@
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Fonts" />
      <None Include="Assets\FootballSimulator\Arts\Shaders\FieldGrassShader\Shaders\GrassLayersModded.shader" />
      <None Include="Assets\FootballSimulator\Arts\Shaders\FieldGrassShader\Shaders\GrassLayers.hlsl" />
+     <Folder Include="Assets\UserLogin\Prefabs" />
      <Folder Include="Assets\TutorialInfo\Icons" />
      <Folder Include="Assets\FootballSimulator\Arts\UI\MatchThemes\TeamPresentation" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Camera\CameraTypes" />
@@ -658,6 +697,7 @@
      <Folder Include="Assets\FootballSimulator\Arts\TrainingField\Model\Foliage\Grass" />
      <Folder Include="Assets\FootballSimulator\Arts\EventRenderers\Materials" />
      <Folder Include="Assets\FootballSimulator\Arts\Shaders\UIShaders" />
+     <Folder Include="Assets\Scripts\GameData" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Players\Positions\AttackingWings" />
      <Folder Include="Assets\FootballSimulator\Arts\TrainingField\Model\Other" />
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Scenes" />
@@ -689,6 +729,7 @@
      <Folder Include="Assets\FootballSimulator\Arts\FootballPlayer\Animations" />
      <Folder Include="Assets\FootballSimulator\Arts\Shaders\FieldGrassShader\Shaders" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\MatchScenes" />
+     <Folder Include="Assets\UserLogin\Scripts\Demo" />
      <Folder Include="Assets\FootballSimulator\Arts\TrainingField\Textures" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <Folder Include="Assets\FootballSimulator\Code\UI\MatchThemes" />
@@ -722,13 +763,16 @@
      <Folder Include="Assets\FootballSimulator\Arts\UI\TeamLogos\Materials" />
      <None Include="Assets\FootballSimulator\Arts\Shaders\DebugNode.hlsl" />
      <Folder Include="Assets\FootballSimulator\Arts\Shaders\FieldGrassShader" />
+     <Folder Include="Assets\UserLogin" />
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\FootballSimulator\Code\MatchEngine\Events" />
      <Folder Include="Assets\FootballSimulator\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
      <Folder Include="Assets\FootballSimulator\URP\Mobile" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\PlayerThrowIn" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Sprites\EmojiOne.json" />
+     <Folder Include="Assets\UserLogin\Resources" />
      <Folder Include="Assets\FootballSimulator\Arts\Sounds\Clips\FootballInGame\PlayerShoot" />
+     <Folder Include="Assets\UserLogin\Resources\Avatars" />
      <Folder Include="Assets\FootballSimulator\AddressableAssetsData" />
      <None Include="Assets\FootballSimulator\TextMesh Pro\Shaders\TMP_Sprite.shader" />
      <Folder Include="Assets\FootballSimulator\URP\Volumes" />
@@ -990,6 +1034,9 @@
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Mdb">
      <HintPath>F:\Unity\足球超级赛\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+     </Reference>
+     <Reference Include="AiToolbox.Runtime">
+     <HintPath>F:\Unity\足球超级赛\Assets\AI Toolbox\Runtime\AiToolbox.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
      <HintPath>F:\Unity\足球超级赛\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
@@ -1524,6 +1571,14 @@
      </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="AiToolbox.csproj">
+      <Project>{d04405b4-39a4-0aa5-3995-27d696234d8c}</Project>
+      <Name>AiToolbox</Name>
+    </ProjectReference>
+    <ProjectReference Include="AiToolbox.Samples.csproj">
+      <Project>{fd73f1e7-c51a-aa1d-d689-f14b61cf9e19}</Project>
+      <Name>AiToolbox.Samples</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

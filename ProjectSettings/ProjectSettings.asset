@@ -718,6 +718,7 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     Android: UNITY_INPUT_SYSTEM_ENABLE_UI
+    Standalone: USER_LOGIN
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
